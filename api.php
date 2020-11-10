@@ -1,12 +1,4 @@
-<?php 
- 
- /*
- * Created by Belal Khan
- * website: www.simplifiedcoding.net 
- * Retrieve Data From MySQL Database in Android
- */
- 
- //database constants
+//database constants
  define('DB_HOST', 'bukh50ajfik1swwhrda2-mysql.services.clever-cloud.com');
  define('DB_USER', 'uwznjzsizdpzpvnq');
  define('DB_PASS', 'O6uDFVYCyfERtsLDOJdF');
