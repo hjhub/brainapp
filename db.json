@@ -12,7 +12,8 @@
       "item_name": "Paper roll",
       "qty": 3,
       "status_id": 1,
-      "item_status": "Canceled"
+      "item_status": "Canceled",
+      "is_new": true
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       "item_name": "Paper roll",
       "qty": 5,
       "status_id": 2,
-      "item_status": "Sent"
+      "item_status": "Sent",
+      "is_new": false
     }
   ]
 }
