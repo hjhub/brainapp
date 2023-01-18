@@ -1,0 +1,16 @@
+{
+   "status":"Success",
+   "message":null,
+   "data":[
+  {
+    "Currency_Guid": "a083c744-da28-4ce1-9861-998b649e1f09",
+    "Currency_Symb": "LBP",
+    "Currency_Rate": 1
+  },
+  {
+    "Currency_Guid": "9886f851-fe1c-4f30-ae66-ec11f48d0dde",
+    "Currency_Symb": "USD",
+    "Currency_Rate": 50000
+  }
+]
+}
