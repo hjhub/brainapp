@@ -10,6 +10,7 @@
     "WarehouseGuid": "00000000-0000-0000-0000-000000000000",
     "CategoryName": "Applied Nutrition",
     "AVGCost": 576000,
+    "Qty": 20,
     "CurrencySymb": "USD"
   },
   {
@@ -20,6 +21,7 @@
     "WarehouseGuid": "00000000-0000-0000-0000-000000000000",
     "CategoryName": "",
     "AVGCost": 0,
+    "Qty": 10,
     "CurrencySymb": "LBP"
   }
 ]
