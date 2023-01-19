@@ -1,0 +1,22 @@
+[
+  {
+    "ItemGuid": "57ceaf9f-ab71-4186-9d75-b50873abc930",
+    "ItemName": "Nestle 0.5L",
+    "Price": 10,
+    "Barcode": "5285008060132",
+    "WarehouseGuid": "00000000-0000-0000-0000-000000000000",
+    "CategoryName": "Applied Nutrition",
+    "AVGCost": 576000,
+    "CurrencySymb": "USD"
+  },
+  {
+    "ItemGuid": "cc19e7d2-c3c4-467c-8a6f-806da7418405",
+    "ItemName": "Super White",
+    "Price": 2000,
+    "Barcode": "5285006868921",
+    "WarehouseGuid": "00000000-0000-0000-0000-000000000000",
+    "CategoryName": "",
+    "AVGCost": 0,
+    "CurrencySymb": "LBP"
+  }
+]
