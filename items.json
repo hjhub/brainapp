@@ -1,4 +1,7 @@
-[
+{
+   "status":"Success",
+   "message":"Items",
+   "data":[
   {
     "ItemGuid": "57ceaf9f-ab71-4186-9d75-b50873abc930",
     "ItemName": "Nestle 0.5L",
@@ -20,3 +23,7 @@
     "CurrencySymb": "LBP"
   }
 ]
+}
+
+
+
