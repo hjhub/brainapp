@@ -1,1 +1,12 @@
-{"data":[{"Currency":"LBP","Date":"16/11/2024","Guid":"57ceaf9f-ab71-4186-9d75-b50873abc931","ItemName":"Vr item","Number":"1","Price":100000},{"Currency":"LBP","Date":"16/11/2024","Guid":"89fa2be3-546a-43f1-9c99-87912136bfca","ItemName":"Vr item","Number":"969","Price":100000},{"Currency":"LBP","Date":"16/11/2024","Guid":"6462f8d5-2842-4d70-bc37-dca8f7e5990b","ItemName":"Vr item","Number":"881","Price":100000},{"Currency":"LBP","Date":"16/11/2024","Guid":"000e5939-59f9-426d-a32d-6f6f164d84ac","ItemName":"Vr item","Number":"244","Price":100000}]}
+{
+  "data": [
+    {
+      "Currency": "LBP",
+      "Date": "16/11/2024",
+      "Guid": "57ceaf9f-ab71-4186-9d75-b50873abc931",
+      "ItemName": "Vr item",
+      "Number": "1",
+      "Price": 100000
+    }
+  ]
+}
