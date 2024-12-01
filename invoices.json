@@ -1,31 +1,5 @@
 {
     "data": [
-        {
-            "Currency": "LBP",
-            "Date": "20241201",
-            "Guid": "ec16aad0-32c8-423b-b49c-66da87f11e28",
-            "ItemName": "Vr item",
-            "Number": 1,
-            "Price": 100000,
-            "User": "a083c744-da28-4ce1-9861-998b649e1f09"
-        },
-        {
-            "Currency": "LBP",
-            "Date": "20241201",
-            "Guid": "af315424-670e-4399-b8ce-4df7fe3705b0",
-            "ItemName": "Vr item",
-            "Number": 2,
-            "Price": 100000,
-            "User": "9886f851-fe1c-4f30-ae66-ec11f48d0dde"
-        },
-        {
-            "Currency": "LBP",
-            "Date": "20241201",
-            "Guid": "c44dd63b-d2d4-4b34-a0f4-955e71d6b0a4",
-            "ItemName": "Vr item",
-            "Number": 3,
-            "Price": 100000,
-            "User": "a083c744-da28-4ce1-9861-998b649e1f09"
-        }
+        
     ]
 }
