@@ -3,12 +3,14 @@
         {
             "Guid": "a083c744-da28-4ce1-9861-998b649e1f09",
             "Username": "1",
-            "Password": "1"
+            "Password": "1",
+            "isAdmin" : 1
         },
         {
             "Guid": "9886f851-fe1c-4f30-ae66-ec11f48d0dde",
             "Username": "2",
-            "Password": "2"
+            "Password": "2",
+            "isAdmin" : 0
         }
     ]
 }
