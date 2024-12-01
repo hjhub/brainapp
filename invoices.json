@@ -23,6 +23,15 @@
             "ItemName": "Vr item",
             "Number": 3,
             "Price": 100000
+        },
+        {
+            "Currency": "LBP",
+            "Date": "20241201",
+            "Guid": "40efecf0-855c-46c5-8fc6-40efb3fe1e0d",
+            "ItemName": "Vr item",
+            "Number": 4,
+            "Price": 100000,
+            "User": "admin"
         }
     ]
 }
