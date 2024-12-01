@@ -15,6 +15,14 @@
             "ItemName": "Dynamic Item",
             "Number": 2,
             "Price": 200000
+        },
+        {
+            "Currency": "LBP",
+            "Date": "01\/12\/2024",
+            "Guid": "34094bab-b8ca-4fe9-bdd1-d73837060f3e",
+            "ItemName": "Dynamic Item",
+            "Number": 3,
+            "Price": 200000
         }
     ]
 }
