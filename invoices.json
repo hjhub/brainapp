@@ -1,5 +1,12 @@
 {
     "data": [
-       
+        {
+            "Currency": "LBP",
+            "Date": "01\/12\/2024",
+            "Guid": "76202842-9c64-4841-9f56-2d5e3d293660",
+            "ItemName": "Dynamic Item",
+            "Number": 1,
+            "Price": 200000
+        }
     ]
 }
