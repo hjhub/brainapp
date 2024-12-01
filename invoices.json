@@ -1,20 +1,5 @@
 {
     "data": [
-        {
-            "Currency": "LBP",
-            "Date": "23\/11\/2024",
-            "Guid": "new-guid",
-            "ItemName": "New Item",
-            "Number": "3",
-            "Price": 200000
-        },
-        {
-            "Currency": "LBP",
-            "Date": "23\/11\/2024",
-            "Guid": "new-guid",
-            "ItemName": "New Item",
-            "Number": "3",
-            "Price": 200000
-        }
+       
     ]
 }
