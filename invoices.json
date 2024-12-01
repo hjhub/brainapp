@@ -1,5 +1,13 @@
 {
     "data": [
-        
+        {
+            "Currency": "LBP",
+            "Date": "20241201",
+            "Guid": "cca0565a-c9e9-4870-b12c-b7f29d4ad7ed",
+            "ItemName": "Vr item",
+            "Number": 1,
+            "Price": 100000,
+            "User": "a083c744-da28-4ce1-9861-998b649e1f09"
+        }
     ]
 }
