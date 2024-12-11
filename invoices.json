@@ -242,6 +242,15 @@
             "Number": 27,
             "Price": 100000,
             "User": "a083c744-da28-4ce1-9861-998b649e1f09"
+        },
+        {
+            "Currency": "LBP",
+            "Date": "20241211",
+            "Guid": "825f9b83-fe5f-4e33-a1ea-9accce7fa4e3",
+            "ItemName": "Vr item",
+            "Number": 28,
+            "Price": 100000,
+            "User": "a083c744-da28-4ce1-9861-998b649e1f09"
         }
     ]
 }
