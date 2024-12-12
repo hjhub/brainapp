@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "printData": "[L]\n[L]<font size='big'>    VR Zone</font>\n\n[L]<b> <font size='big-3'> BL 100</font></b>\n\n"
+      "printData": "[L]\n[L]<font size='big'>    VR Zone</font>\n\n[L]<b> <font size='big-3'> BL {number}</font></b>\n\n"
     }
   ]
 }
