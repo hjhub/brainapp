@@ -1429,6 +1429,17 @@
             "Price": 100000,
             "User": "a083c744-da28-4ce1-9861-998b649e1f09",
             "AndroidID": "610842f5941cf282"
+        },
+        {
+            "Currency": "LBP",
+            "Date": "20241214",
+            "Time": "08:48 AM",
+            "Guid": "2dd24cbc-f566-4637-a3ee-8f9cd893f15c",
+            "ItemName": "Vr item",
+            "Number": 83,
+            "Price": 100000,
+            "User": "a083c744-da28-4ce1-9861-998b649e1f09",
+            "AndroidID": "610842f5941cf282"
         }
     ]
 }
