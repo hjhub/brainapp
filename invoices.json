@@ -1,11 +1,6 @@
 {
     "data": [
         {
-            "Name": "Vr item",
-            "Price": 100000,
-            "Currency": "LBP"
-        },
-        {
             "Currency": "LBP",
             "Date": "20241215",
             "Time": "07:29 PM",
